@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://d3mxt5v3yxgcsr.cloudfront.net/courses/7141/course_7141_image.png)
 <h1 align="center">Hi 👋, I'm Lingraj Pradhan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
