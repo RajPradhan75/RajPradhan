@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png)
+![Header](https://raw.githubusercontent.com/LingrajPradhan/LingrajPradhan/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Lingraj Pradhan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
